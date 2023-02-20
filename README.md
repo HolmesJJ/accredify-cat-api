@@ -2,7 +2,7 @@
 
 This is a cat wiki application for user to view, like and vote the cats he/she prefer to. The application is integrated with [the cat api](https://thecatapi.com/), developed with Vue 3, designed with Element Plus, tested with Jest.
 
-You may access the demo link [here]().
+You may access the demo link [here](https://holmesjj.github.io/accredify-cat-api/).
 
 ## Folder Structure
 
